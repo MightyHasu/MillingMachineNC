@@ -1,0 +1,8 @@
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\bin\Debug\MillingMachineNC.exe.config
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\obj\Debug\MillingMachineNC.csprojResolveAssemblyReference.cache
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\bin\Debug\MillingMachineNC.exe
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\bin\Debug\MillingMachineNC.pdb
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\obj\Debug\MillingMachineNC.exe
+c:\users\mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\obj\Debug\MillingMachineNC.pdb
+C:\Users\Mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\obj\Debug\MillingMachineNC.Form1.resources
+C:\Users\Mighty\documents\visual studio 2015\Projects\MillingMachineNC\MillingMachineNC\obj\Debug\MillingMachineNC.csproj.GenerateResource.Cache
